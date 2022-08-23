@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# This project deploys a smart contract that enable the mint of ERC721 NFTs
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+The smart contract is deployed on the testnet Goerli at the following address:
+0x6B4d8e65965d0C432B22f3972b6F5B8a6C44bb1A
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+A React application is included in this project to enable the mint of the NFTs.
